@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Danilo, a full-stack  developer 👨‍💻 open to working</div>  
+### <div align="center">I'm Danilo, a full-stack  developer 👨‍💻 open to work</div>  
   
 
 - 🌱 I’m currently learning React, Redux  
