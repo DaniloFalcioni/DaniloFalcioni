@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
-</div>  
-  
+
 
 ### <div align="center">I'm Danilo, a full-stack  developer from Italy, Marche 👨‍💻</div>  
 ### <div align="center">Open to work 💻</div>  
