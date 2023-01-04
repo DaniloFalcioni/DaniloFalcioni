@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Danilo, a full-stack  developer from Italy, Marche 👨‍💻 open to work</div>  
-### <div align="center">Open to work</div>  
+### <div align="center">I'm Danilo, a full-stack  developer from Italy, Marche 👨‍💻</div>  
+### <div align="center">Open to work 💻</div>  
   
 
 - 🌱 I’m currently learning React, Redux  
