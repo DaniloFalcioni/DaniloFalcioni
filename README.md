@@ -1,4 +1,7 @@
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="center" height="" width="400" />
+</div>  
 
 ### <div align="center">I'm Danilo, a full-stack  developer from Italy, Marche 👨‍💻</div>  
 ### <div align="center">Open to work 💻</div>  
